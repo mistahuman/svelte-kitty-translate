@@ -1,0 +1,1 @@
+# svelte-kitty-translate
